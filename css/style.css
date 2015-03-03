@@ -179,6 +179,10 @@ a {
   text-align: center;
 }
 
+.resume-middle a:hover {
+  color: #3FA9F5;
+}
+
 .resume-title {
   color: #b8b8b8;
   margin-top: -3px;
